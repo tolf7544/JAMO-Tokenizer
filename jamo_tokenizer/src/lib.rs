@@ -10,10 +10,9 @@ jamo_format
 encoding
 decoding
 vocab
-TokenizerTrain
-ComputeTokenizer  <  다형성 기반 >
-TrainTokenizer < 다형성 기반 >
+Train < Tokenizer를 Injection하여 진행 >
 Tokenizer
+DataLoader
 */
 
 /// Formats the sum of two numbers as string.

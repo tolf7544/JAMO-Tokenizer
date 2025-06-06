@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
   <diagram name="페이지-1" id="0h08854TT0-nEwNd6orM">
-    <mxGraphModel dx="5564" dy="1435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6259" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,8 +123,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-UDsvztjERI6EMqML59h-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-UDsvztjERI6EMqML59h-21" target="-UDsvztjERI6EMqML59h-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3180" y="330.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3181" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-UDsvztjERI6EMqML59h-21" value="Vocab" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2560" y="1030" width="280" height="240" as="geometry" />
+          <mxGeometry x="-2560" y="1040" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="-UDsvztjERI6EMqML59h-22" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-UDsvztjERI6EMqML59h-21">
           <mxGeometry y="26" width="280" height="114" as="geometry" />
@@ -243,6 +251,41 @@
         </mxCell>
         <mxCell id="-UDsvztjERI6EMqML59h-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-UDsvztjERI6EMqML59h-45" target="-UDsvztjERI6EMqML59h-38">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UDsvztjERI6EMqML59h-81" value="JAMOVocabAdapter" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3320" y="80" width="280" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-UDsvztjERI6EMqML59h-82" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-UDsvztjERI6EMqML59h-81">
+          <mxGeometry y="26" width="280" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="-UDsvztjERI6EMqML59h-83" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="-UDsvztjERI6EMqML59h-81">
+          <mxGeometry y="140" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="-UDsvztjERI6EMqML59h-84" value="+&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-UDsvztjERI6EMqML59h-81">
+          <mxGeometry y="148" width="280" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="-UDsvztjERI6EMqML59h-87" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-3880" y="840" width="600" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-UDsvztjERI6EMqML59h-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=1;startFill=0;" edge="1" parent="-UDsvztjERI6EMqML59h-87" source="-UDsvztjERI6EMqML59h-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="100.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-UDsvztjERI6EMqML59h-86" value="" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=4;spacingRight=4;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="-UDsvztjERI6EMqML59h-87">
+          <mxGeometry width="600" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-UDsvztjERI6EMqML59h-79" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Vocab: List[ tuple(str, int) ]&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;key: i64&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;token: str iteral&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="-UDsvztjERI6EMqML59h-87">
+          <mxGeometry x="280" y="90" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-UDsvztjERI6EMqML59h-80" value="Huggingface에서 preTokenizer로 통해 호출하여 사용할 수 있도록 JAMOVocabAdapter를 필요로 함" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-UDsvztjERI6EMqML59h-87">
+          <mxGeometry x="42" y="50" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-UDsvztjERI6EMqML59h-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-UDsvztjERI6EMqML59h-87" source="-UDsvztjERI6EMqML59h-89" target="-UDsvztjERI6EMqML59h-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UDsvztjERI6EMqML59h-89" value="Huggingface Vocab Format" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="-UDsvztjERI6EMqML59h-87">
+          <mxGeometry x="42" y="110" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

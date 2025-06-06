@@ -70,3 +70,9 @@ docs/_build/
 
 # Pyenv
 .python-version
+
+.Cargo.lock
+
+.Cargo.toml
+
+.pyproject.toml

@@ -206,7 +206,7 @@
         <mxCell id="9WKAnDUL6-gBGBFP9irt-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="9WKAnDUL6-gBGBFP9irt-5" vertex="1">
           <mxGeometry y="93.39292795769994" width="367.2142295513951" height="0.07032850021682473" as="geometry" />
         </mxCell>
-        <mxCell id="9WKAnDUL6-gBGBFP9irt-8" value="+ separate_chunk()&lt;div&gt;- log_chunk_manager_status()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="9WKAnDUL6-gBGBFP9irt-5" vertex="1">
+        <mxCell id="9WKAnDUL6-gBGBFP9irt-8" value="&lt;div&gt;+ generate_chunk()&lt;/div&gt;&lt;div&gt;+&amp;nbsp;&lt;/div&gt;&lt;div&gt;- log_chunk_manager_status()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="9WKAnDUL6-gBGBFP9irt-5" vertex="1">
           <mxGeometry y="93.46325645791677" width="367.2142295513951" height="87.54521833273185" as="geometry" />
         </mxCell>
         <mxCell id="9WKAnDUL6-gBGBFP9irt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="-UDsvztjERI6EMqML59h-46" source="fGygiR2meMWEybvUlObT-6" target="9WKAnDUL6-gBGBFP9irt-8" edge="1">
